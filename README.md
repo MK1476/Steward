@@ -18,21 +18,21 @@ Firebase: Firebase is used for authentication, storage, and real-time database f
 
 ## Installation
 Clone the repository: 
-'''
+```
 git clone https://github.com/karunaprakash062/Steward.git
-'''
+```
 Navigate to the project directory:
-'''
+```
 cd steward
-'''
+```
 Install dependencies: 
-'''
+```
 flutter pub get
-'''
+```
 Launch the app: 
-'''
+```
 flutter run
-'''
+```
 ## Screenshots
 
 
