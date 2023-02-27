@@ -35,9 +35,10 @@ flutter run
 ```
 ## Screenshots
 ### Steward
-![img 1](/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg)
-![img 2](/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg)
-![img 3](/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg)
+![img 1](/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg =200x200)
+![img 2](/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg | width = 200)
+
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 3" width="200" height="200">
 
 ## Credits
 * Flutter
