@@ -36,20 +36,20 @@ flutter run
 ## Screenshots
 ### Steward
 <p float="left">
-<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-33-41_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 1" width="480" height="800">
-<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-36-87_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 2" width="480" height="800">
-<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-41-60_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 3" width="480" height="800">
-<img src="/Steward/assets/images/Screenshot_2023-02-27-03-14-03-69_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 4" width="480" height="800">
-<img src="/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 5" width="480" height="800">
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-33-41_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 1" width="280" height="500">
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-36-87_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 2" width="280" height="500">
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-13-41-60_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 3" width="280" height="500">
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-14-03-69_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 4" width="280" height="500">
+<img src="/Steward/assets/images/Screenshot_2023-02-27-03-14-17-54_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 5" width="280" height="500">
 <p>
   
 ### Stewards Kitchen
   
 <p float="left">
-<img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-14-41-13_741fc3d1c2253a7ce70ba4710a00a604.jpg" alt = "img 1" width="480" height="800">
-<img src="/Steward's%20Kitchen/assets/imagesScreenshot_2023-02-27-03-14-52-74.jpg" alt = "img 2" width="480" height="800">
-  <img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-15-13-11_741fc3d1c2253a7ce70ba4710a00a604.jpg" alt = "img 1" width="480" height="800">
-  <img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-15-40-44_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 1" width="480" height="800">
+<img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-14-41-13_741fc3d1c2253a7ce70ba4710a00a604.jpg" alt = "img 1" width="280" height="500">
+<img src="/Steward's%20Kitchen/assets/imagesScreenshot_2023-02-27-03-14-52-74.jpg" alt = "img 2" width="280" height="500">
+  <img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-15-13-11_741fc3d1c2253a7ce70ba4710a00a604.jpg" alt = "img 3" width="280" height="500">
+  <img src="/Steward's%20Kitchen/assets/images/Screenshot_2023-02-27-03-15-40-44_0f9a05566ef4fc07b94523fe63796c14.jpg" alt = "img 4" width="280" height="500">
 <p>
 
 
